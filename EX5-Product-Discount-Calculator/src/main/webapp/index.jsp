@@ -12,7 +12,7 @@
 <body>
 <div class="container">
     <div class="calculator-form">
-        <h2>Product Discount Calculator</h2>
+        <h2 style="font-weight: bold">Product Discount Calculator</h2>
         <form action="discount" method="post">
             <div class="mb-3">
                 <label for="productName" class="form-label">Mô Tả sản phẩm</label>
